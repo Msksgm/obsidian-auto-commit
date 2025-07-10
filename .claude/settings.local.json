@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api:*)",
+      "Bash(chmod:*)",
+      "Bash(./create_all_github_setup.sh:*)"
+    ],
+    "deny": []
+  }
+}
